@@ -1,0 +1,190 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" LABEL="[Lunario]" OBJID="G-29-23(1)" PROFILE="http://www.loc.gov/standards/mets/profiles/00000044.xml" xsi:schemaLocation="http://www.loc.gov/METS/ http://www.loc.gov/standards/mets/version111/mets.xsd">
+  <mets:metsHdr CREATEDATE="2020-09-17T09:22:27">
+    <mets:agent ROLE="CREATOR" TYPE="ORGANIZATION">
+      <mets:name>Universidad de Zaragoza</mets:name>
+    </mets:agent>
+    <mets:agent ROLE="EDITOR" TYPE="ORGANIZATION">
+      <mets:name>Arte Digital 2012</mets:name>
+    </mets:agent>
+    <mets:altRecordID TYPE="Institución y signatura">UniZar G-29-23(1)</mets:altRecordID>
+  </mets:metsHdr>
+  <mets:dmdSec ID="marc_descriptive-">
+    <mets:mdWrap MDTYPE="MARC">
+      <mets:xmlData>
+        <marc:collection xmlns:marc="http://www.loc.gov/MARC21/slim" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+  <marc:record>
+    <marc:leader>00802dam a22002175i 4500</marc:leader>
+<marc:controlfield tag="001">CCPB000852171-9</marc:controlfield>
+<marc:controlfield tag="008">200820s1613    sp a   |r|||||||||||spa d</marc:controlfield>
+    <marc:datafield ind1=" " ind2=" " tag="040">
+      <marc:subfield code="a">AR </marc:subfield>
+      <marc:subfield code="b">spa </marc:subfield>
+      <marc:subfield code="c">AR </marc:subfield>
+      <marc:subfield code="e">rdc</marc:subfield>
+      <marc:subfield code="d">ES-ZaU</marc:subfield>
+    </marc:datafield>
+    <marc:datafield ind1="0" ind2="0" tag="245">
+      <marc:subfield code="a">[Lunario]</marc:subfield>
+    </marc:datafield>
+    <marc:datafield ind1=" " ind2=" " tag="260">
+      <marc:subfield code="a">En Çaragoça :</marc:subfield>
+      <marc:subfield code="b">Por Iuan de Larumbe,</marc:subfield>
+      <marc:subfield code="c">1613.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield ind1=" " ind2=" " tag="300">
+      <marc:subfield code="a">4 h. :</marc:subfield>
+      <marc:subfield code="b">il. ;</marc:subfield>
+      <marc:subfield code="c">12º</marc:subfield>
+    </marc:datafield>
+    <marc:datafield ind1=" " ind2=" " tag="596">
+      <marc:subfield code="a">Pie de imp. en port., donde se señala: "Vendese en la misma emprenta"</marc:subfield>
+    </marc:datafield>
+    <marc:datafield ind1=" " ind2=" " tag="597">
+      <marc:subfield code="a">Port. con grab. xil. de un sol.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield ind1=" " ind2=" " tag="599">
+      <marc:subfield code="a">Otros grab. xil.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield ind1="1" ind2=" " tag="700">
+      <marc:subfield code="a">Larumbe, Juan de,</marc:subfield>
+      <marc:subfield code="e">imp.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield ind1=" " ind2=" " tag="752">
+      <marc:subfield code="a">España</marc:subfield>
+      <marc:subfield code="b">Aragón</marc:subfield>
+      <marc:subfield code="d">Zaragoza.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield ind1=" " ind2=" " tag="907">
+      <marc:subfield code="a">.b18851228</marc:subfield>
+      <marc:subfield code="b">26-08-20</marc:subfield>
+      <marc:subfield code="c">06-09-17</marc:subfield>
+    </marc:datafield>
+    <marc:datafield ind1=" " ind2=" " tag="998">
+      <marc:subfield code="a">100</marc:subfield>
+      <marc:subfield code="b">20-08-20</marc:subfield>
+      <marc:subfield code="c">m</marc:subfield>
+      <marc:subfield code="d">a</marc:subfield>
+      <marc:subfield code="e">a</marc:subfield>
+      <marc:subfield code="f">spa</marc:subfield>
+      <marc:subfield code="g">sp </marc:subfield>
+      <marc:subfield code="h">0</marc:subfield>
+      <marc:subfield code="i">0</marc:subfield>
+    </marc:datafield>
+    <marc:datafield ind1="1" ind2=" " tag="927">
+      <marc:subfield code="a">100</marc:subfield>
+      <marc:subfield code="b">pm</marc:subfield>
+      <marc:subfield code="d">200820</marc:subfield>
+    </marc:datafield>
+    <marc:datafield ind1=" " ind2=" " tag="980">
+      <marc:subfield code="b">fondos</marc:subfield>
+    </marc:datafield>
+    <marc:datafield ind1=" " ind2=" " tag="945">
+      <marc:subfield code="a">G-29-23(1)    </marc:subfield>
+      <marc:subfield code="g">1</marc:subfield>
+      <marc:subfield code="l">100an</marc:subfield>
+      <marc:subfield code="n">DIGITALIZACION 2020</marc:subfield>
+      <marc:subfield code="o">d</marc:subfield>
+      <marc:subfield code="p">&amp;#x20ac;0.00</marc:subfield>
+      <marc:subfield code="q">-</marc:subfield>
+      <marc:subfield code="r">f</marc:subfield>
+      <marc:subfield code="s">-</marc:subfield>
+      <marc:subfield code="t">20</marc:subfield>
+      <marc:subfield code="u">0</marc:subfield>
+      <marc:subfield code="v">0</marc:subfield>
+      <marc:subfield code="w">0</marc:subfield>
+      <marc:subfield code="x">0</marc:subfield>
+      <marc:subfield code="y">.i22744393</marc:subfield>
+      <marc:subfield code="z">20-08-20</marc:subfield>
+    </marc:datafield>
+  </marc:record>
+</marc:collection>
+      </mets:xmlData>
+    </mets:mdWrap>
+  </mets:dmdSec>
+  <mets:amdSec ID="amdSec_rights-00d00003-0000-4b2b-b3ab-80e39fb10e52">
+    <mets:rightsMD ID="rights-00d00003-0000-4b2b-b3ab-80e39fb10e52">
+      <mets:mdWrap MDTYPE="METSRIGHTS">
+        <mets:xmlData>
+          <rts:RightsDeclarationMD xmlns:rts="http://cosimo.stanford.edu/sdr/metsrights/" RIGHTSCATEGORY="COPYRIGHTED" xsi:schemaLocation="http://cosimo.stanford.edu/sdr/metsrights/ http://www.loc.gov/standards/rights/METSRights.xsd">
+	<rts:RightsDeclaration>La Dirección General de Bellas Artes y Bienes Culturales y de Archivos y Bibliotecas, y las Bibliotecas Públicas del Estado o instituciones de memoria que conservan colecciones hemerográficas o de manuscritos e impresos antiguos son las únicas titulares de la propiedad intelectual de la presente copia digital y de sus metadatos, por lo que no podrá realizarse comercialización ni distribución alguna de los mismos.</rts:RightsDeclaration>
+	<rts:RightsHolder RIGHTSHOLDERID="HOLDER001">
+		<rts:RightsHolderName>España. Universidad de Zaragoza</rts:RightsHolderName>
+		<rts:RightsHolderContact>
+			<rts:RightsHolderContactAddress>Biblioteca Universitaria. Edificio Paraninfo, Plaza Paraíso, 4, 50005 Zaragoza</rts:RightsHolderContactAddress>
+			<rts:RightsHolderContactPhone PHONETYPE="BUSINESS">976 761854</rts:RightsHolderContactPhone>			
+			<rts:RightsHolderContactEmail>buz@unizar.es</rts:RightsHolderContactEmail>
+		</rts:RightsHolderContact>
+	</rts:RightsHolder>
+	<rts:Context CONTEXTCLASS="GENERAL PUBLIC">
+		<rts:Permissions COPY="true" DELETE="false" DISCOVER="true" DISPLAY="true" DUPLICATE="false" MODIFY="false" OTHER="false" PRINT="true"/>
+	</rts:Context>
+	<rts:Context CONTEXTCLASS="REPOSITORY MGR">
+		<rts:Permissions COPY="true" DELETE="true" DISCOVER="true" DISPLAY="true" DUPLICATE="true" MODIFY="true" OTHER="false" PRINT="true"/>
+	</rts:Context>
+</rts:RightsDeclarationMD>
+        </mets:xmlData>
+      </mets:mdWrap>
+    </mets:rightsMD>
+  </mets:amdSec>
+  <mets:fileSec>
+    <mets:fileGrp ADMID="amdSec_rights-00d00003-0000-4b2b-b3ab-80e39fb10e52" ID="fileGrp-Reference_Image-00d00003-0000-4b2b-b3ab-80e39fb10e52" USE="reference">
+      <mets:file CREATED="2020-08-29T21:40:18" GROUPID="page_1" ID="_00d00003-0004-4182-9d09-037852f546c9" MIMETYPE="image/jpeg" SEQ="1" SIZE="3665466">
+        <mets:FLocat LOCTYPE="URL" xlink:href="..\jpeg\G_29_23\G_29_23_0001.jpg" xlink:type="simple"/>
+      </mets:file>
+      <mets:file CREATED="2020-08-29T21:40:24" GROUPID="page_2" ID="_00d00003-0005-477d-a39c-c7cbb420bcdf" MIMETYPE="image/jpeg" SEQ="2" SIZE="3551054">
+        <mets:FLocat LOCTYPE="URL" xlink:href="..\jpeg\G_29_23\G_29_23_0002.jpg" xlink:type="simple"/>
+      </mets:file>
+    </mets:fileGrp>
+    <mets:fileGrp ADMID="amdSec_rights-00d00003-0000-4b2b-b3ab-80e39fb10e52" ID="fileGrp-Pdf-00d00003-0000-4b2b-b3ab-80e39fb10e52" USE="reference">
+      <mets:file CREATED="2020-08-30T21:25:44" GROUPID="G_29_23.pdf" ID="_00d00003-000b-46b3-a63d-7fc2815aca59" MIMETYPE="application/pdf" SIZE="3480274">
+        <mets:FLocat LOCTYPE="URL" xlink:href="..\pdf_ocr\G_29_23\G_29_23.pdf" xlink:type="simple"/>
+      </mets:file>
+    </mets:fileGrp>
+  </mets:fileSec>
+  <mets:structMap ID="structMapLogical-00d00003-0000-4b2b-b3ab-80e39fb10e52" LABEL="Contenido de la obra" TYPE="PHYSICAL">
+    <mets:div ADMID="amdSec_rights-00d00003-0000-4b2b-b3ab-80e39fb10e52" ID="divLogical_00d00003_0000_4b2b_b3ab_80e39fb10e52" LABEL="[Lunario]" TYPE="Text Document">
+      <mets:div ID="divDocumentoCompleto_pdf" LABEL="multipage file" TYPE="page">
+        <mets:fptr FILEID="_00d00003-000b-46b3-a63d-7fc2815aca59"/>
+      </mets:div>
+      <mets:div ID="divLogical_1" TYPE="page">
+        <mets:div ID="divImage_1" ORDER="1" TYPE="image">
+          <mets:fptr FILEID="_00d00003-0004-4182-9d09-037852f546c9"/>
+        </mets:div>
+      </mets:div>
+      <mets:div ID="divLogical_2" TYPE="page"/>
+      <mets:div ID="divLogical_3" TYPE="page">
+        <mets:div ID="divImage_3" ORDER="2" TYPE="image">
+          <mets:fptr FILEID="_00d00003-0005-477d-a39c-c7cbb420bcdf"/>
+        </mets:div>
+      </mets:div>
+    </mets:div>
+  </mets:structMap>
+  <mets:structMap ID="structMapPhysical-00d00003-0000-4b2b-b3ab-80e39fb10e52" LABEL="PRIMARY_STRUCTMAP" TYPE="physical">
+    <mets:div ADMID="amdSec_rights-00d00003-0000-4b2b-b3ab-80e39fb10e52" ID="_00d00003_0000_4b2b_b3ab_80e39fb10e52_DataDirectory" LABEL="Data Directory: H:\UniZar" TYPE="Directory">
+      <mets:div ID="_00d00003_0000_4b2b_b3ab_80e39fb10e52_DataDirectory_jpeg" LABEL="jpeg" TYPE="Directory">
+        <mets:div ID="_00d00003_0000_4b2b_b3ab_80e39fb10e52_DataDirectory_jpeg_G_29_23" LABEL="G_29_23" TYPE="Directory">
+          <mets:div ID="_00d00003_0000_4b2b_b3ab_80e39fb10e52_DataDirectory_jpeg_G_29_23_G_29_23_0001_jpg" LABEL="G_29_23_0001.jpg" TYPE="Directory">
+            <mets:div ID="div_00d00003_0004_4182_9d09_037852f546c9" LABEL="G_29_23_0001.jpg" TYPE="Item">
+              <mets:fptr FILEID="_00d00003-0004-4182-9d09-037852f546c9"/>
+            </mets:div>
+          </mets:div>
+          <mets:div ID="_00d00003_0000_4b2b_b3ab_80e39fb10e52_DataDirectory_jpeg_G_29_23_G_29_23_0002_jpg" LABEL="G_29_23_0002.jpg" TYPE="Directory">
+            <mets:div ID="div_00d00003_0005_477d_a39c_c7cbb420bcdf" LABEL="G_29_23_0002.jpg" TYPE="Item">
+              <mets:fptr FILEID="_00d00003-0005-477d-a39c-c7cbb420bcdf"/>
+            </mets:div>
+          </mets:div>
+        </mets:div>
+      </mets:div>
+      <mets:div ID="_00d00003_0000_4b2b_b3ab_80e39fb10e52_DataDirectory_pdf_ocr" LABEL="pdf_ocr" TYPE="Directory">
+        <mets:div ID="_00d00003_0000_4b2b_b3ab_80e39fb10e52_DataDirectory_pdf_ocr_G_29_23" LABEL="G_29_23" TYPE="Directory">
+          <mets:div ID="_00d00003_0000_4b2b_b3ab_80e39fb10e52_DataDirectory_pdf_ocr_G_29_23_G_29_23_pdf" LABEL="G_29_23.pdf" TYPE="Directory">
+            <mets:div ID="div_00d00003_000b_46b3_a63d_7fc2815aca59" LABEL="G_29_23.pdf" TYPE="Item">
+              <mets:fptr FILEID="_00d00003-000b-46b3-a63d-7fc2815aca59"/>
+            </mets:div>
+          </mets:div>
+        </mets:div>
+      </mets:div>
+    </mets:div>
+  </mets:structMap>
+</mets:mets>

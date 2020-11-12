@@ -1,0 +1,607 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" LABEL="In obitu Philippi Tertii hipaniarum regis catholici ad caesaraugustanos oratio /" OBJID="D-32-116 (3)" PROFILE="http://www.loc.gov/standards/mets/profiles/00000044.xml" xsi:schemaLocation="http://www.loc.gov/METS/ http://www.loc.gov/standards/mets/version111/mets.xsd">
+  <mets:metsHdr CREATEDATE="2020-09-16T10:35:16">
+    <mets:agent ROLE="CREATOR" TYPE="ORGANIZATION">
+      <mets:name>Universidad de Zaragoza</mets:name>
+    </mets:agent>
+    <mets:agent ROLE="EDITOR" TYPE="ORGANIZATION">
+      <mets:name>Arte Digital 2012</mets:name>
+    </mets:agent>
+    <mets:altRecordID TYPE="Institución y signatura">UniZar D-32-116 (3)</mets:altRecordID>
+  </mets:metsHdr>
+  <mets:dmdSec ID="marc_descriptive-">
+    <mets:mdWrap MDTYPE="MARC">
+      <mets:xmlData>
+        <marc:collection xmlns:marc="http://www.loc.gov/MARC21/slim" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+  <marc:record>
+    <marc:leader>00958cam a22002175i 4500</marc:leader>
+<marc:controlfield tag="001">CCPB000719980-5</marc:controlfield>
+<marc:controlfield tag="008">200806s1621    sp      r     ||| | lat d</marc:controlfield>
+    <marc:datafield ind1=" " ind2=" " tag="040">
+      <marc:subfield code="a">AR </marc:subfield>
+      <marc:subfield code="b">spa </marc:subfield>
+      <marc:subfield code="c">AR </marc:subfield>
+      <marc:subfield code="d">ES-ZaU</marc:subfield>
+    </marc:datafield>
+    <marc:datafield ind1="1" ind2=" " tag="100">
+      <marc:subfield code="a">Rajas, Pablo Albiniano de</marc:subfield>
+      <marc:subfield code="c">(S.I.),</marc:subfield>
+      <marc:subfield code="d">1583-1667.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield ind1="1" ind2="0" tag="245">
+      <marc:subfield code="a">In obitu Philippi Tertii hipaniarum regis catholici ad caesaraugustanos oratio /</marc:subfield>
+      <marc:subfield code="c">dixit Paulus Albinianus de Rajas Societatis Iesu theologus.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield ind1=" " ind2=" " tag="260">
+      <marc:subfield code="a">Caesaraugustae :</marc:subfield>
+      <marc:subfield code="b">apud Ioannem à Lanaja &amp; Quartanet,</marc:subfield>
+      <marc:subfield code="c">1621.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield ind1=" " ind2=" " tag="300">
+      <marc:subfield code="a">[2], 32 p. ;</marc:subfield>
+      <marc:subfield code="c">4º.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield ind1=" " ind2=" " tag="597">
+      <marc:subfield code="a">Sign.: [ ]1, a-d4.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield ind1=" " ind2=" " tag="597">
+      <marc:subfield code="a">Port. con grab. calc.: Escudo de la Compañía de Jesús.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield ind1="1" ind2=" " tag="700">
+      <marc:subfield code="a">Lanaja Quartanet, Juan de,</marc:subfield>
+      <marc:subfield code="e">imp.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield ind1=" " ind2=" " tag="752">
+      <marc:subfield code="a">España</marc:subfield>
+      <marc:subfield code="b">Aragón</marc:subfield>
+      <marc:subfield code="d">Zaragoza.</marc:subfield>
+    </marc:datafield>
+    <marc:datafield ind1=" " ind2=" " tag="907">
+      <marc:subfield code="a">.b18842859</marc:subfield>
+      <marc:subfield code="b">26-08-20</marc:subfield>
+      <marc:subfield code="c">06-09-17</marc:subfield>
+    </marc:datafield>
+    <marc:datafield ind1=" " ind2=" " tag="998">
+      <marc:subfield code="a">100</marc:subfield>
+      <marc:subfield code="b">06-08-20</marc:subfield>
+      <marc:subfield code="c">m</marc:subfield>
+      <marc:subfield code="d">a</marc:subfield>
+      <marc:subfield code="e">a</marc:subfield>
+      <marc:subfield code="f">lat</marc:subfield>
+      <marc:subfield code="g">sp </marc:subfield>
+      <marc:subfield code="h">0</marc:subfield>
+      <marc:subfield code="i">0</marc:subfield>
+    </marc:datafield>
+    <marc:datafield ind1="1" ind2=" " tag="927">
+      <marc:subfield code="a">100</marc:subfield>
+      <marc:subfield code="b">jm</marc:subfield>
+      <marc:subfield code="d">200806</marc:subfield>
+    </marc:datafield>
+    <marc:datafield ind1=" " ind2=" " tag="980">
+      <marc:subfield code="b">fondos</marc:subfield>
+    </marc:datafield>
+    <marc:datafield ind1=" " ind2=" " tag="945">
+      <marc:subfield code="a">D-32-116 (3)   </marc:subfield>
+      <marc:subfield code="g">1</marc:subfield>
+      <marc:subfield code="l">100an</marc:subfield>
+      <marc:subfield code="n">DIGITALIZACION 2020</marc:subfield>
+      <marc:subfield code="o">d</marc:subfield>
+      <marc:subfield code="p">&amp;#x20ac;0.00</marc:subfield>
+      <marc:subfield code="q">-</marc:subfield>
+      <marc:subfield code="r">f</marc:subfield>
+      <marc:subfield code="s">-</marc:subfield>
+      <marc:subfield code="t">20</marc:subfield>
+      <marc:subfield code="u">0</marc:subfield>
+      <marc:subfield code="v">0</marc:subfield>
+      <marc:subfield code="w">0</marc:subfield>
+      <marc:subfield code="x">0</marc:subfield>
+      <marc:subfield code="y">.i22735720</marc:subfield>
+      <marc:subfield code="z">06-08-20</marc:subfield>
+    </marc:datafield>
+  </marc:record>
+</marc:collection>
+      </mets:xmlData>
+    </mets:mdWrap>
+  </mets:dmdSec>
+  <mets:amdSec ID="amdSec_rights-00d00040-0000-4b53-8afb-3e35aa7dec49">
+    <mets:rightsMD ID="rights-00d00040-0000-4b53-8afb-3e35aa7dec49">
+      <mets:mdWrap MDTYPE="METSRIGHTS">
+        <mets:xmlData>
+          <rts:RightsDeclarationMD xmlns:rts="http://cosimo.stanford.edu/sdr/metsrights/" RIGHTSCATEGORY="COPYRIGHTED" xsi:schemaLocation="http://cosimo.stanford.edu/sdr/metsrights/ http://www.loc.gov/standards/rights/METSRights.xsd">
+	<rts:RightsDeclaration>La Dirección General de Bellas Artes y Bienes Culturales y de Archivos y Bibliotecas, y las Bibliotecas Públicas del Estado o instituciones de memoria que conservan colecciones hemerográficas o de manuscritos e impresos antiguos son las únicas titulares de la propiedad intelectual de la presente copia digital y de sus metadatos, por lo que no podrá realizarse comercialización ni distribución alguna de los mismos.</rts:RightsDeclaration>
+	<rts:RightsHolder RIGHTSHOLDERID="HOLDER001">
+		<rts:RightsHolderName>España. Universidad de Zaragoza</rts:RightsHolderName>
+		<rts:RightsHolderContact>
+			<rts:RightsHolderContactAddress>Biblioteca Universitaria. Edificio Paraninfo, Plaza Paraíso, 4, 50005 Zaragoza</rts:RightsHolderContactAddress>
+			<rts:RightsHolderContactPhone PHONETYPE="BUSINESS">976 761854</rts:RightsHolderContactPhone>			
+			<rts:RightsHolderContactEmail>buz@unizar.es</rts:RightsHolderContactEmail>
+		</rts:RightsHolderContact>
+	</rts:RightsHolder>
+	<rts:Context CONTEXTCLASS="GENERAL PUBLIC">
+		<rts:Permissions COPY="true" DELETE="false" DISCOVER="true" DISPLAY="true" DUPLICATE="false" MODIFY="false" OTHER="false" PRINT="true"/>
+	</rts:Context>
+	<rts:Context CONTEXTCLASS="REPOSITORY MGR">
+		<rts:Permissions COPY="true" DELETE="true" DISCOVER="true" DISPLAY="true" DUPLICATE="true" MODIFY="true" OTHER="false" PRINT="true"/>
+	</rts:Context>
+</rts:RightsDeclarationMD>
+        </mets:xmlData>
+      </mets:mdWrap>
+    </mets:rightsMD>
+  </mets:amdSec>
+  <mets:fileSec>
+    <mets:fileGrp ADMID="amdSec_rights-00d00040-0000-4b53-8afb-3e35aa7dec49" ID="fileGrp-Reference_Image-00d00040-0000-4b53-8afb-3e35aa7dec49" USE="reference">
+      <mets:file CREATED="2020-08-29T14:58:23" GROUPID="page_1" ID="_00d00040-0004-4e44-ad71-a9d2cef3933f" MIMETYPE="image/jpeg" SEQ="1" SIZE="565043">
+        <mets:FLocat LOCTYPE="URL" xlink:href="..\jpeg\D_32_116_3\D_32_116_3_0001.jpg" xlink:type="simple"/>
+      </mets:file>
+      <mets:file CREATED="2020-08-29T14:58:26" GROUPID="page_2" ID="_00d00040-0005-494c-bce2-02d7db43aa2a" MIMETYPE="image/jpeg" SEQ="2" SIZE="704590">
+        <mets:FLocat LOCTYPE="URL" xlink:href="..\jpeg\D_32_116_3\D_32_116_3_0002.jpg" xlink:type="simple"/>
+      </mets:file>
+      <mets:file CREATED="2020-08-29T14:58:27" GROUPID="page_3" ID="_00d00040-0006-48f1-a893-aa6fba3deabb" MIMETYPE="image/jpeg" SEQ="3" SIZE="598838">
+        <mets:FLocat LOCTYPE="URL" xlink:href="..\jpeg\D_32_116_3\D_32_116_3_0003.jpg" xlink:type="simple"/>
+      </mets:file>
+      <mets:file CREATED="2020-08-29T14:58:28" GROUPID="page_4" ID="_00d00040-0007-40ee-934d-fb5aa60eacfc" MIMETYPE="image/jpeg" SEQ="4" SIZE="910460">
+        <mets:FLocat LOCTYPE="URL" xlink:href="..\jpeg\D_32_116_3\D_32_116_3_0004.jpg" xlink:type="simple"/>
+      </mets:file>
+      <mets:file CREATED="2020-08-29T14:58:29" GROUPID="page_5" ID="_00d00040-0008-4a6e-b7d4-d175d913259b" MIMETYPE="image/jpeg" SEQ="5" SIZE="807737">
+        <mets:FLocat LOCTYPE="URL" xlink:href="..\jpeg\D_32_116_3\D_32_116_3_0005.jpg" xlink:type="simple"/>
+      </mets:file>
+      <mets:file CREATED="2020-08-29T14:58:30" GROUPID="page_6" ID="_00d00040-0009-4b47-afba-c94106c74751" MIMETYPE="image/jpeg" SEQ="6" SIZE="849942">
+        <mets:FLocat LOCTYPE="URL" xlink:href="..\jpeg\D_32_116_3\D_32_116_3_0006.jpg" xlink:type="simple"/>
+      </mets:file>
+      <mets:file CREATED="2020-08-29T14:58:31" GROUPID="page_7" ID="_00d00040-000a-43e2-9e1f-533849def586" MIMETYPE="image/jpeg" SEQ="7" SIZE="877536">
+        <mets:FLocat LOCTYPE="URL" xlink:href="..\jpeg\D_32_116_3\D_32_116_3_0007.jpg" xlink:type="simple"/>
+      </mets:file>
+      <mets:file CREATED="2020-08-29T14:58:33" GROUPID="page_8" ID="_00d00040-000b-4954-a4c4-eb9f7f0fc456" MIMETYPE="image/jpeg" SEQ="8" SIZE="849986">
+        <mets:FLocat LOCTYPE="URL" xlink:href="..\jpeg\D_32_116_3\D_32_116_3_0008.jpg" xlink:type="simple"/>
+      </mets:file>
+      <mets:file CREATED="2020-08-29T14:58:34" GROUPID="page_9" ID="_00d00040-000c-479d-8c17-3b61a5b99b7f" MIMETYPE="image/jpeg" SEQ="9" SIZE="841268">
+        <mets:FLocat LOCTYPE="URL" xlink:href="..\jpeg\D_32_116_3\D_32_116_3_0009.jpg" xlink:type="simple"/>
+      </mets:file>
+      <mets:file CREATED="2020-08-29T14:58:35" GROUPID="page_10" ID="_00d00040-000d-4938-9b65-b36e69e688b4" MIMETYPE="image/jpeg" SEQ="10" SIZE="841300">
+        <mets:FLocat LOCTYPE="URL" xlink:href="..\jpeg\D_32_116_3\D_32_116_3_0010.jpg" xlink:type="simple"/>
+      </mets:file>
+      <mets:file CREATED="2020-08-29T14:58:36" GROUPID="page_11" ID="_00d00040-000e-44aa-b024-b8e3fa73de52" MIMETYPE="image/jpeg" SEQ="11" SIZE="870510">
+        <mets:FLocat LOCTYPE="URL" xlink:href="..\jpeg\D_32_116_3\D_32_116_3_0011.jpg" xlink:type="simple"/>
+      </mets:file>
+      <mets:file CREATED="2020-08-29T14:58:37" GROUPID="page_12" ID="_00d00040-000f-490b-b9cb-7cc216b1c684" MIMETYPE="image/jpeg" SEQ="12" SIZE="853368">
+        <mets:FLocat LOCTYPE="URL" xlink:href="..\jpeg\D_32_116_3\D_32_116_3_0012.jpg" xlink:type="simple"/>
+      </mets:file>
+      <mets:file CREATED="2020-08-29T14:58:38" GROUPID="page_13" ID="_00d00040-0010-4db5-aa42-929b157f41ad" MIMETYPE="image/jpeg" SEQ="13" SIZE="861184">
+        <mets:FLocat LOCTYPE="URL" xlink:href="..\jpeg\D_32_116_3\D_32_116_3_0013.jpg" xlink:type="simple"/>
+      </mets:file>
+      <mets:file CREATED="2020-08-29T14:58:39" GROUPID="page_14" ID="_00d00040-0011-482b-98bc-e1e52a552364" MIMETYPE="image/jpeg" SEQ="14" SIZE="859679">
+        <mets:FLocat LOCTYPE="URL" xlink:href="..\jpeg\D_32_116_3\D_32_116_3_0014.jpg" xlink:type="simple"/>
+      </mets:file>
+      <mets:file CREATED="2020-08-29T14:58:40" GROUPID="page_15" ID="_00d00040-0012-40c3-b633-47ac495ee864" MIMETYPE="image/jpeg" SEQ="15" SIZE="851291">
+        <mets:FLocat LOCTYPE="URL" xlink:href="..\jpeg\D_32_116_3\D_32_116_3_0015.jpg" xlink:type="simple"/>
+      </mets:file>
+      <mets:file CREATED="2020-08-29T14:58:42" GROUPID="page_16" ID="_00d00040-0013-42c7-b36d-d21d1e4892de" MIMETYPE="image/jpeg" SEQ="16" SIZE="888936">
+        <mets:FLocat LOCTYPE="URL" xlink:href="..\jpeg\D_32_116_3\D_32_116_3_0016.jpg" xlink:type="simple"/>
+      </mets:file>
+      <mets:file CREATED="2020-08-29T14:58:43" GROUPID="page_17" ID="_00d00040-0014-4efd-86b0-e374d88557a3" MIMETYPE="image/jpeg" SEQ="17" SIZE="877027">
+        <mets:FLocat LOCTYPE="URL" xlink:href="..\jpeg\D_32_116_3\D_32_116_3_0017.jpg" xlink:type="simple"/>
+      </mets:file>
+      <mets:file CREATED="2020-08-29T14:58:44" GROUPID="page_18" ID="_00d00040-0015-40a1-aa2a-934f770d392f" MIMETYPE="image/jpeg" SEQ="18" SIZE="886284">
+        <mets:FLocat LOCTYPE="URL" xlink:href="..\jpeg\D_32_116_3\D_32_116_3_0018.jpg" xlink:type="simple"/>
+      </mets:file>
+      <mets:file CREATED="2020-08-29T14:58:45" GROUPID="page_19" ID="_00d00040-0016-46f7-8502-06cafdfeb89c" MIMETYPE="image/jpeg" SEQ="19" SIZE="887251">
+        <mets:FLocat LOCTYPE="URL" xlink:href="..\jpeg\D_32_116_3\D_32_116_3_0019.jpg" xlink:type="simple"/>
+      </mets:file>
+      <mets:file CREATED="2020-08-29T14:58:46" GROUPID="page_20" ID="_00d00040-0017-4600-b899-6925d21968a1" MIMETYPE="image/jpeg" SEQ="20" SIZE="896299">
+        <mets:FLocat LOCTYPE="URL" xlink:href="..\jpeg\D_32_116_3\D_32_116_3_0020.jpg" xlink:type="simple"/>
+      </mets:file>
+      <mets:file CREATED="2020-08-29T14:58:47" GROUPID="page_21" ID="_00d00040-0018-4d25-9bd4-45a8bb6ac704" MIMETYPE="image/jpeg" SEQ="21" SIZE="865815">
+        <mets:FLocat LOCTYPE="URL" xlink:href="..\jpeg\D_32_116_3\D_32_116_3_0021.jpg" xlink:type="simple"/>
+      </mets:file>
+      <mets:file CREATED="2020-08-29T14:58:49" GROUPID="page_22" ID="_00d00040-0019-40f1-b693-b05e7d95a789" MIMETYPE="image/jpeg" SEQ="22" SIZE="863305">
+        <mets:FLocat LOCTYPE="URL" xlink:href="..\jpeg\D_32_116_3\D_32_116_3_0022.jpg" xlink:type="simple"/>
+      </mets:file>
+      <mets:file CREATED="2020-08-29T14:58:50" GROUPID="page_23" ID="_00d00040-001a-4c45-ae19-e102db146e88" MIMETYPE="image/jpeg" SEQ="23" SIZE="861627">
+        <mets:FLocat LOCTYPE="URL" xlink:href="..\jpeg\D_32_116_3\D_32_116_3_0023.jpg" xlink:type="simple"/>
+      </mets:file>
+      <mets:file CREATED="2020-08-29T14:58:51" GROUPID="page_24" ID="_00d00040-001b-43b8-9767-a0f04b9d00c1" MIMETYPE="image/jpeg" SEQ="24" SIZE="913021">
+        <mets:FLocat LOCTYPE="URL" xlink:href="..\jpeg\D_32_116_3\D_32_116_3_0024.jpg" xlink:type="simple"/>
+      </mets:file>
+      <mets:file CREATED="2020-08-29T14:58:52" GROUPID="page_25" ID="_00d00040-001c-41f2-84ad-14fcf3285445" MIMETYPE="image/jpeg" SEQ="25" SIZE="901081">
+        <mets:FLocat LOCTYPE="URL" xlink:href="..\jpeg\D_32_116_3\D_32_116_3_0025.jpg" xlink:type="simple"/>
+      </mets:file>
+      <mets:file CREATED="2020-08-29T14:58:53" GROUPID="page_26" ID="_00d00040-001d-423d-99ef-6c14d94e7bae" MIMETYPE="image/jpeg" SEQ="26" SIZE="892248">
+        <mets:FLocat LOCTYPE="URL" xlink:href="..\jpeg\D_32_116_3\D_32_116_3_0026.jpg" xlink:type="simple"/>
+      </mets:file>
+      <mets:file CREATED="2020-08-29T14:58:54" GROUPID="page_27" ID="_00d00040-001e-423e-8b0b-9dbd3605f5ac" MIMETYPE="image/jpeg" SEQ="27" SIZE="915140">
+        <mets:FLocat LOCTYPE="URL" xlink:href="..\jpeg\D_32_116_3\D_32_116_3_0027.jpg" xlink:type="simple"/>
+      </mets:file>
+      <mets:file CREATED="2020-08-29T14:58:56" GROUPID="page_28" ID="_00d00040-001f-4d47-9bea-f248beab141d" MIMETYPE="image/jpeg" SEQ="28" SIZE="921445">
+        <mets:FLocat LOCTYPE="URL" xlink:href="..\jpeg\D_32_116_3\D_32_116_3_0028.jpg" xlink:type="simple"/>
+      </mets:file>
+      <mets:file CREATED="2020-08-29T14:58:57" GROUPID="page_29" ID="_00d00040-0020-47ca-9a79-e00f635a6803" MIMETYPE="image/jpeg" SEQ="29" SIZE="876298">
+        <mets:FLocat LOCTYPE="URL" xlink:href="..\jpeg\D_32_116_3\D_32_116_3_0029.jpg" xlink:type="simple"/>
+      </mets:file>
+      <mets:file CREATED="2020-08-29T14:58:58" GROUPID="page_30" ID="_00d00040-0021-4860-b3e6-3c121a203727" MIMETYPE="image/jpeg" SEQ="30" SIZE="879814">
+        <mets:FLocat LOCTYPE="URL" xlink:href="..\jpeg\D_32_116_3\D_32_116_3_0030.jpg" xlink:type="simple"/>
+      </mets:file>
+      <mets:file CREATED="2020-08-29T14:58:59" GROUPID="page_31" ID="_00d00040-0022-4078-8a39-3ebfec1fc263" MIMETYPE="image/jpeg" SEQ="31" SIZE="873366">
+        <mets:FLocat LOCTYPE="URL" xlink:href="..\jpeg\D_32_116_3\D_32_116_3_0031.jpg" xlink:type="simple"/>
+      </mets:file>
+      <mets:file CREATED="2020-08-29T14:59:00" GROUPID="page_32" ID="_00d00040-0023-4642-aa46-7dc6d5976693" MIMETYPE="image/jpeg" SEQ="32" SIZE="729465">
+        <mets:FLocat LOCTYPE="URL" xlink:href="..\jpeg\D_32_116_3\D_32_116_3_0032.jpg" xlink:type="simple"/>
+      </mets:file>
+      <mets:file CREATED="2020-08-29T14:59:01" GROUPID="page_33" ID="_00d00040-0024-4001-9bcc-5aefaf3e770b" MIMETYPE="image/jpeg" SEQ="33" SIZE="722085">
+        <mets:FLocat LOCTYPE="URL" xlink:href="..\jpeg\D_32_116_3\D_32_116_3_0033.jpg" xlink:type="simple"/>
+      </mets:file>
+      <mets:file CREATED="2020-08-29T14:59:02" GROUPID="page_34" ID="_00d00040-0025-46de-8b0e-a38fe36fb178" MIMETYPE="image/jpeg" SEQ="34" SIZE="736474">
+        <mets:FLocat LOCTYPE="URL" xlink:href="..\jpeg\D_32_116_3\D_32_116_3_0034.jpg" xlink:type="simple"/>
+      </mets:file>
+    </mets:fileGrp>
+    <mets:fileGrp ADMID="amdSec_rights-00d00040-0000-4b53-8afb-3e35aa7dec49" ID="fileGrp-Pdf-00d00040-0000-4b53-8afb-3e35aa7dec49" USE="reference">
+      <mets:file CREATED="2020-09-08T11:04:12" GROUPID="D_32_116_3.pdf" ID="_00d00040-002b-4e2d-924b-1f0c65aeda27" MIMETYPE="application/pdf" SIZE="4026279">
+        <mets:FLocat LOCTYPE="URL" xlink:href="..\pdf_ocr\D_32_116_3\D_32_116_3.pdf" xlink:type="simple"/>
+      </mets:file>
+    </mets:fileGrp>
+  </mets:fileSec>
+  <mets:structMap ID="structMapLogical-00d00040-0000-4b53-8afb-3e35aa7dec49" LABEL="Contenido de la obra" TYPE="PHYSICAL">
+    <mets:div ADMID="amdSec_rights-00d00040-0000-4b53-8afb-3e35aa7dec49" ID="divLogical_00d00040_0000_4b53_8afb_3e35aa7dec49" LABEL="In obitu Philippi Tertii hipaniarum regis catholici ad caesaraugustanos oratio /" TYPE="Text Document">
+      <mets:div ID="divDocumentoCompleto_pdf" LABEL="multipage file" TYPE="page">
+        <mets:fptr FILEID="_00d00040-002b-4e2d-924b-1f0c65aeda27"/>
+      </mets:div>
+      <mets:div ID="divLogical_1" TYPE="page">
+        <mets:div ID="divImage_1" ORDER="1" TYPE="image">
+          <mets:fptr FILEID="_00d00040-0004-4e44-ad71-a9d2cef3933f"/>
+        </mets:div>
+      </mets:div>
+      <mets:div ID="divLogical_2" TYPE="page"/>
+      <mets:div ID="divLogical_3" TYPE="page">
+        <mets:div ID="divImage_3" ORDER="2" TYPE="image">
+          <mets:fptr FILEID="_00d00040-0005-494c-bce2-02d7db43aa2a"/>
+        </mets:div>
+      </mets:div>
+      <mets:div ID="divLogical_4" TYPE="page">
+        <mets:div ID="divImage_4" ORDER="3" TYPE="image">
+          <mets:fptr FILEID="_00d00040-0006-48f1-a893-aa6fba3deabb"/>
+        </mets:div>
+      </mets:div>
+      <mets:div ID="divLogical_5" TYPE="page">
+        <mets:div ID="divImage_5" ORDER="4" TYPE="image">
+          <mets:fptr FILEID="_00d00040-0007-40ee-934d-fb5aa60eacfc"/>
+        </mets:div>
+      </mets:div>
+      <mets:div ID="divLogical_6" TYPE="page">
+        <mets:div ID="divImage_6" ORDER="5" TYPE="image">
+          <mets:fptr FILEID="_00d00040-0008-4a6e-b7d4-d175d913259b"/>
+        </mets:div>
+      </mets:div>
+      <mets:div ID="divLogical_7" TYPE="page">
+        <mets:div ID="divImage_7" ORDER="6" TYPE="image">
+          <mets:fptr FILEID="_00d00040-0009-4b47-afba-c94106c74751"/>
+        </mets:div>
+      </mets:div>
+      <mets:div ID="divLogical_8" TYPE="page">
+        <mets:div ID="divImage_8" ORDER="7" TYPE="image">
+          <mets:fptr FILEID="_00d00040-000a-43e2-9e1f-533849def586"/>
+        </mets:div>
+      </mets:div>
+      <mets:div ID="divLogical_9" TYPE="page">
+        <mets:div ID="divImage_9" ORDER="8" TYPE="image">
+          <mets:fptr FILEID="_00d00040-000b-4954-a4c4-eb9f7f0fc456"/>
+        </mets:div>
+      </mets:div>
+      <mets:div ID="divLogical_10" TYPE="page">
+        <mets:div ID="divImage_10" ORDER="9" TYPE="image">
+          <mets:fptr FILEID="_00d00040-000c-479d-8c17-3b61a5b99b7f"/>
+        </mets:div>
+      </mets:div>
+      <mets:div ID="divLogical_11" TYPE="page">
+        <mets:div ID="divImage_11" ORDER="10" TYPE="image">
+          <mets:fptr FILEID="_00d00040-000d-4938-9b65-b36e69e688b4"/>
+        </mets:div>
+      </mets:div>
+      <mets:div ID="divLogical_12" TYPE="page">
+        <mets:div ID="divImage_12" ORDER="11" TYPE="image">
+          <mets:fptr FILEID="_00d00040-000e-44aa-b024-b8e3fa73de52"/>
+        </mets:div>
+      </mets:div>
+      <mets:div ID="divLogical_13" TYPE="page">
+        <mets:div ID="divImage_13" ORDER="12" TYPE="image">
+          <mets:fptr FILEID="_00d00040-000f-490b-b9cb-7cc216b1c684"/>
+        </mets:div>
+      </mets:div>
+      <mets:div ID="divLogical_14" TYPE="page">
+        <mets:div ID="divImage_14" ORDER="13" TYPE="image">
+          <mets:fptr FILEID="_00d00040-0010-4db5-aa42-929b157f41ad"/>
+        </mets:div>
+      </mets:div>
+      <mets:div ID="divLogical_15" TYPE="page">
+        <mets:div ID="divImage_15" ORDER="14" TYPE="image">
+          <mets:fptr FILEID="_00d00040-0011-482b-98bc-e1e52a552364"/>
+        </mets:div>
+      </mets:div>
+      <mets:div ID="divLogical_16" TYPE="page">
+        <mets:div ID="divImage_16" ORDER="15" TYPE="image">
+          <mets:fptr FILEID="_00d00040-0012-40c3-b633-47ac495ee864"/>
+        </mets:div>
+      </mets:div>
+      <mets:div ID="divLogical_17" TYPE="page">
+        <mets:div ID="divImage_17" ORDER="16" TYPE="image">
+          <mets:fptr FILEID="_00d00040-0013-42c7-b36d-d21d1e4892de"/>
+        </mets:div>
+      </mets:div>
+      <mets:div ID="divLogical_18" TYPE="page">
+        <mets:div ID="divImage_18" ORDER="17" TYPE="image">
+          <mets:fptr FILEID="_00d00040-0014-4efd-86b0-e374d88557a3"/>
+        </mets:div>
+      </mets:div>
+      <mets:div ID="divLogical_19" TYPE="page">
+        <mets:div ID="divImage_19" ORDER="18" TYPE="image">
+          <mets:fptr FILEID="_00d00040-0015-40a1-aa2a-934f770d392f"/>
+        </mets:div>
+      </mets:div>
+      <mets:div ID="divLogical_20" TYPE="page">
+        <mets:div ID="divImage_20" ORDER="19" TYPE="image">
+          <mets:fptr FILEID="_00d00040-0016-46f7-8502-06cafdfeb89c"/>
+        </mets:div>
+      </mets:div>
+      <mets:div ID="divLogical_21" TYPE="page">
+        <mets:div ID="divImage_21" ORDER="20" TYPE="image">
+          <mets:fptr FILEID="_00d00040-0017-4600-b899-6925d21968a1"/>
+        </mets:div>
+      </mets:div>
+      <mets:div ID="divLogical_22" TYPE="page">
+        <mets:div ID="divImage_22" ORDER="21" TYPE="image">
+          <mets:fptr FILEID="_00d00040-0018-4d25-9bd4-45a8bb6ac704"/>
+        </mets:div>
+      </mets:div>
+      <mets:div ID="divLogical_23" TYPE="page">
+        <mets:div ID="divImage_23" ORDER="22" TYPE="image">
+          <mets:fptr FILEID="_00d00040-0019-40f1-b693-b05e7d95a789"/>
+        </mets:div>
+      </mets:div>
+      <mets:div ID="divLogical_24" TYPE="page">
+        <mets:div ID="divImage_24" ORDER="23" TYPE="image">
+          <mets:fptr FILEID="_00d00040-001a-4c45-ae19-e102db146e88"/>
+        </mets:div>
+      </mets:div>
+      <mets:div ID="divLogical_25" TYPE="page">
+        <mets:div ID="divImage_25" ORDER="24" TYPE="image">
+          <mets:fptr FILEID="_00d00040-001b-43b8-9767-a0f04b9d00c1"/>
+        </mets:div>
+      </mets:div>
+      <mets:div ID="divLogical_26" TYPE="page">
+        <mets:div ID="divImage_26" ORDER="25" TYPE="image">
+          <mets:fptr FILEID="_00d00040-001c-41f2-84ad-14fcf3285445"/>
+        </mets:div>
+      </mets:div>
+      <mets:div ID="divLogical_27" TYPE="page">
+        <mets:div ID="divImage_27" ORDER="26" TYPE="image">
+          <mets:fptr FILEID="_00d00040-001d-423d-99ef-6c14d94e7bae"/>
+        </mets:div>
+      </mets:div>
+      <mets:div ID="divLogical_28" TYPE="page">
+        <mets:div ID="divImage_28" ORDER="27" TYPE="image">
+          <mets:fptr FILEID="_00d00040-001e-423e-8b0b-9dbd3605f5ac"/>
+        </mets:div>
+      </mets:div>
+      <mets:div ID="divLogical_29" TYPE="page">
+        <mets:div ID="divImage_29" ORDER="28" TYPE="image">
+          <mets:fptr FILEID="_00d00040-001f-4d47-9bea-f248beab141d"/>
+        </mets:div>
+      </mets:div>
+      <mets:div ID="divLogical_30" TYPE="page">
+        <mets:div ID="divImage_30" ORDER="29" TYPE="image">
+          <mets:fptr FILEID="_00d00040-0020-47ca-9a79-e00f635a6803"/>
+        </mets:div>
+      </mets:div>
+      <mets:div ID="divLogical_31" TYPE="page">
+        <mets:div ID="divImage_31" ORDER="30" TYPE="image">
+          <mets:fptr FILEID="_00d00040-0021-4860-b3e6-3c121a203727"/>
+        </mets:div>
+      </mets:div>
+      <mets:div ID="divLogical_32" TYPE="page">
+        <mets:div ID="divImage_32" ORDER="31" TYPE="image">
+          <mets:fptr FILEID="_00d00040-0022-4078-8a39-3ebfec1fc263"/>
+        </mets:div>
+      </mets:div>
+      <mets:div ID="divLogical_33" TYPE="page">
+        <mets:div ID="divImage_33" ORDER="32" TYPE="image">
+          <mets:fptr FILEID="_00d00040-0023-4642-aa46-7dc6d5976693"/>
+        </mets:div>
+      </mets:div>
+      <mets:div ID="divLogical_34" TYPE="page">
+        <mets:div ID="divImage_34" ORDER="33" TYPE="image">
+          <mets:fptr FILEID="_00d00040-0024-4001-9bcc-5aefaf3e770b"/>
+        </mets:div>
+      </mets:div>
+      <mets:div ID="divLogical_35" TYPE="page">
+        <mets:div ID="divImage_35" ORDER="34" TYPE="image">
+          <mets:fptr FILEID="_00d00040-0025-46de-8b0e-a38fe36fb178"/>
+        </mets:div>
+      </mets:div>
+    </mets:div>
+  </mets:structMap>
+  <mets:structMap ID="structMapPhysical-00d00040-0000-4b53-8afb-3e35aa7dec49" LABEL="PRIMARY_STRUCTMAP" TYPE="physical">
+    <mets:div ADMID="amdSec_rights-00d00040-0000-4b53-8afb-3e35aa7dec49" ID="_00d00040_0000_4b53_8afb_3e35aa7dec49_DataDirectory" LABEL="Data Directory: H:\UniZar" TYPE="Directory">
+      <mets:div ID="_00d00040_0000_4b53_8afb_3e35aa7dec49_DataDirectory_jpeg" LABEL="jpeg" TYPE="Directory">
+        <mets:div ID="_00d00040_0000_4b53_8afb_3e35aa7dec49_DataDirectory_jpeg_D_32_116_3" LABEL="D_32_116_3" TYPE="Directory">
+          <mets:div ID="_00d00040_0000_4b53_8afb_3e35aa7dec49_DataDirectory_jpeg_D_32_116_3_D_32_116_3_0001_jpg" LABEL="D_32_116_3_0001.jpg" TYPE="Directory">
+            <mets:div ID="div_00d00040_0004_4e44_ad71_a9d2cef3933f" LABEL="D_32_116_3_0001.jpg" TYPE="Item">
+              <mets:fptr FILEID="_00d00040-0004-4e44-ad71-a9d2cef3933f"/>
+            </mets:div>
+          </mets:div>
+          <mets:div ID="_00d00040_0000_4b53_8afb_3e35aa7dec49_DataDirectory_jpeg_D_32_116_3_D_32_116_3_0002_jpg" LABEL="D_32_116_3_0002.jpg" TYPE="Directory">
+            <mets:div ID="div_00d00040_0005_494c_bce2_02d7db43aa2a" LABEL="D_32_116_3_0002.jpg" TYPE="Item">
+              <mets:fptr FILEID="_00d00040-0005-494c-bce2-02d7db43aa2a"/>
+            </mets:div>
+          </mets:div>
+          <mets:div ID="_00d00040_0000_4b53_8afb_3e35aa7dec49_DataDirectory_jpeg_D_32_116_3_D_32_116_3_0003_jpg" LABEL="D_32_116_3_0003.jpg" TYPE="Directory">
+            <mets:div ID="div_00d00040_0006_48f1_a893_aa6fba3deabb" LABEL="D_32_116_3_0003.jpg" TYPE="Item">
+              <mets:fptr FILEID="_00d00040-0006-48f1-a893-aa6fba3deabb"/>
+            </mets:div>
+          </mets:div>
+          <mets:div ID="_00d00040_0000_4b53_8afb_3e35aa7dec49_DataDirectory_jpeg_D_32_116_3_D_32_116_3_0004_jpg" LABEL="D_32_116_3_0004.jpg" TYPE="Directory">
+            <mets:div ID="div_00d00040_0007_40ee_934d_fb5aa60eacfc" LABEL="D_32_116_3_0004.jpg" TYPE="Item">
+              <mets:fptr FILEID="_00d00040-0007-40ee-934d-fb5aa60eacfc"/>
+            </mets:div>
+          </mets:div>
+          <mets:div ID="_00d00040_0000_4b53_8afb_3e35aa7dec49_DataDirectory_jpeg_D_32_116_3_D_32_116_3_0005_jpg" LABEL="D_32_116_3_0005.jpg" TYPE="Directory">
+            <mets:div ID="div_00d00040_0008_4a6e_b7d4_d175d913259b" LABEL="D_32_116_3_0005.jpg" TYPE="Item">
+              <mets:fptr FILEID="_00d00040-0008-4a6e-b7d4-d175d913259b"/>
+            </mets:div>
+          </mets:div>
+          <mets:div ID="_00d00040_0000_4b53_8afb_3e35aa7dec49_DataDirectory_jpeg_D_32_116_3_D_32_116_3_0006_jpg" LABEL="D_32_116_3_0006.jpg" TYPE="Directory">
+            <mets:div ID="div_00d00040_0009_4b47_afba_c94106c74751" LABEL="D_32_116_3_0006.jpg" TYPE="Item">
+              <mets:fptr FILEID="_00d00040-0009-4b47-afba-c94106c74751"/>
+            </mets:div>
+          </mets:div>
+          <mets:div ID="_00d00040_0000_4b53_8afb_3e35aa7dec49_DataDirectory_jpeg_D_32_116_3_D_32_116_3_0007_jpg" LABEL="D_32_116_3_0007.jpg" TYPE="Directory">
+            <mets:div ID="div_00d00040_000a_43e2_9e1f_533849def586" LABEL="D_32_116_3_0007.jpg" TYPE="Item">
+              <mets:fptr FILEID="_00d00040-000a-43e2-9e1f-533849def586"/>
+            </mets:div>
+          </mets:div>
+          <mets:div ID="_00d00040_0000_4b53_8afb_3e35aa7dec49_DataDirectory_jpeg_D_32_116_3_D_32_116_3_0008_jpg" LABEL="D_32_116_3_0008.jpg" TYPE="Directory">
+            <mets:div ID="div_00d00040_000b_4954_a4c4_eb9f7f0fc456" LABEL="D_32_116_3_0008.jpg" TYPE="Item">
+              <mets:fptr FILEID="_00d00040-000b-4954-a4c4-eb9f7f0fc456"/>
+            </mets:div>
+          </mets:div>
+          <mets:div ID="_00d00040_0000_4b53_8afb_3e35aa7dec49_DataDirectory_jpeg_D_32_116_3_D_32_116_3_0009_jpg" LABEL="D_32_116_3_0009.jpg" TYPE="Directory">
+            <mets:div ID="div_00d00040_000c_479d_8c17_3b61a5b99b7f" LABEL="D_32_116_3_0009.jpg" TYPE="Item">
+              <mets:fptr FILEID="_00d00040-000c-479d-8c17-3b61a5b99b7f"/>
+            </mets:div>
+          </mets:div>
+          <mets:div ID="_00d00040_0000_4b53_8afb_3e35aa7dec49_DataDirectory_jpeg_D_32_116_3_D_32_116_3_0010_jpg" LABEL="D_32_116_3_0010.jpg" TYPE="Directory">
+            <mets:div ID="div_00d00040_000d_4938_9b65_b36e69e688b4" LABEL="D_32_116_3_0010.jpg" TYPE="Item">
+              <mets:fptr FILEID="_00d00040-000d-4938-9b65-b36e69e688b4"/>
+            </mets:div>
+          </mets:div>
+          <mets:div ID="_00d00040_0000_4b53_8afb_3e35aa7dec49_DataDirectory_jpeg_D_32_116_3_D_32_116_3_0011_jpg" LABEL="D_32_116_3_0011.jpg" TYPE="Directory">
+            <mets:div ID="div_00d00040_000e_44aa_b024_b8e3fa73de52" LABEL="D_32_116_3_0011.jpg" TYPE="Item">
+              <mets:fptr FILEID="_00d00040-000e-44aa-b024-b8e3fa73de52"/>
+            </mets:div>
+          </mets:div>
+          <mets:div ID="_00d00040_0000_4b53_8afb_3e35aa7dec49_DataDirectory_jpeg_D_32_116_3_D_32_116_3_0012_jpg" LABEL="D_32_116_3_0012.jpg" TYPE="Directory">
+            <mets:div ID="div_00d00040_000f_490b_b9cb_7cc216b1c684" LABEL="D_32_116_3_0012.jpg" TYPE="Item">
+              <mets:fptr FILEID="_00d00040-000f-490b-b9cb-7cc216b1c684"/>
+            </mets:div>
+          </mets:div>
+          <mets:div ID="_00d00040_0000_4b53_8afb_3e35aa7dec49_DataDirectory_jpeg_D_32_116_3_D_32_116_3_0013_jpg" LABEL="D_32_116_3_0013.jpg" TYPE="Directory">
+            <mets:div ID="div_00d00040_0010_4db5_aa42_929b157f41ad" LABEL="D_32_116_3_0013.jpg" TYPE="Item">
+              <mets:fptr FILEID="_00d00040-0010-4db5-aa42-929b157f41ad"/>
+            </mets:div>
+          </mets:div>
+          <mets:div ID="_00d00040_0000_4b53_8afb_3e35aa7dec49_DataDirectory_jpeg_D_32_116_3_D_32_116_3_0014_jpg" LABEL="D_32_116_3_0014.jpg" TYPE="Directory">
+            <mets:div ID="div_00d00040_0011_482b_98bc_e1e52a552364" LABEL="D_32_116_3_0014.jpg" TYPE="Item">
+              <mets:fptr FILEID="_00d00040-0011-482b-98bc-e1e52a552364"/>
+            </mets:div>
+          </mets:div>
+          <mets:div ID="_00d00040_0000_4b53_8afb_3e35aa7dec49_DataDirectory_jpeg_D_32_116_3_D_32_116_3_0015_jpg" LABEL="D_32_116_3_0015.jpg" TYPE="Directory">
+            <mets:div ID="div_00d00040_0012_40c3_b633_47ac495ee864" LABEL="D_32_116_3_0015.jpg" TYPE="Item">
+              <mets:fptr FILEID="_00d00040-0012-40c3-b633-47ac495ee864"/>
+            </mets:div>
+          </mets:div>
+          <mets:div ID="_00d00040_0000_4b53_8afb_3e35aa7dec49_DataDirectory_jpeg_D_32_116_3_D_32_116_3_0016_jpg" LABEL="D_32_116_3_0016.jpg" TYPE="Directory">
+            <mets:div ID="div_00d00040_0013_42c7_b36d_d21d1e4892de" LABEL="D_32_116_3_0016.jpg" TYPE="Item">
+              <mets:fptr FILEID="_00d00040-0013-42c7-b36d-d21d1e4892de"/>
+            </mets:div>
+          </mets:div>
+          <mets:div ID="_00d00040_0000_4b53_8afb_3e35aa7dec49_DataDirectory_jpeg_D_32_116_3_D_32_116_3_0017_jpg" LABEL="D_32_116_3_0017.jpg" TYPE="Directory">
+            <mets:div ID="div_00d00040_0014_4efd_86b0_e374d88557a3" LABEL="D_32_116_3_0017.jpg" TYPE="Item">
+              <mets:fptr FILEID="_00d00040-0014-4efd-86b0-e374d88557a3"/>
+            </mets:div>
+          </mets:div>
+          <mets:div ID="_00d00040_0000_4b53_8afb_3e35aa7dec49_DataDirectory_jpeg_D_32_116_3_D_32_116_3_0018_jpg" LABEL="D_32_116_3_0018.jpg" TYPE="Directory">
+            <mets:div ID="div_00d00040_0015_40a1_aa2a_934f770d392f" LABEL="D_32_116_3_0018.jpg" TYPE="Item">
+              <mets:fptr FILEID="_00d00040-0015-40a1-aa2a-934f770d392f"/>
+            </mets:div>
+          </mets:div>
+          <mets:div ID="_00d00040_0000_4b53_8afb_3e35aa7dec49_DataDirectory_jpeg_D_32_116_3_D_32_116_3_0019_jpg" LABEL="D_32_116_3_0019.jpg" TYPE="Directory">
+            <mets:div ID="div_00d00040_0016_46f7_8502_06cafdfeb89c" LABEL="D_32_116_3_0019.jpg" TYPE="Item">
+              <mets:fptr FILEID="_00d00040-0016-46f7-8502-06cafdfeb89c"/>
+            </mets:div>
+          </mets:div>
+          <mets:div ID="_00d00040_0000_4b53_8afb_3e35aa7dec49_DataDirectory_jpeg_D_32_116_3_D_32_116_3_0020_jpg" LABEL="D_32_116_3_0020.jpg" TYPE="Directory">
+            <mets:div ID="div_00d00040_0017_4600_b899_6925d21968a1" LABEL="D_32_116_3_0020.jpg" TYPE="Item">
+              <mets:fptr FILEID="_00d00040-0017-4600-b899-6925d21968a1"/>
+            </mets:div>
+          </mets:div>
+          <mets:div ID="_00d00040_0000_4b53_8afb_3e35aa7dec49_DataDirectory_jpeg_D_32_116_3_D_32_116_3_0021_jpg" LABEL="D_32_116_3_0021.jpg" TYPE="Directory">
+            <mets:div ID="div_00d00040_0018_4d25_9bd4_45a8bb6ac704" LABEL="D_32_116_3_0021.jpg" TYPE="Item">
+              <mets:fptr FILEID="_00d00040-0018-4d25-9bd4-45a8bb6ac704"/>
+            </mets:div>
+          </mets:div>
+          <mets:div ID="_00d00040_0000_4b53_8afb_3e35aa7dec49_DataDirectory_jpeg_D_32_116_3_D_32_116_3_0022_jpg" LABEL="D_32_116_3_0022.jpg" TYPE="Directory">
+            <mets:div ID="div_00d00040_0019_40f1_b693_b05e7d95a789" LABEL="D_32_116_3_0022.jpg" TYPE="Item">
+              <mets:fptr FILEID="_00d00040-0019-40f1-b693-b05e7d95a789"/>
+            </mets:div>
+          </mets:div>
+          <mets:div ID="_00d00040_0000_4b53_8afb_3e35aa7dec49_DataDirectory_jpeg_D_32_116_3_D_32_116_3_0023_jpg" LABEL="D_32_116_3_0023.jpg" TYPE="Directory">
+            <mets:div ID="div_00d00040_001a_4c45_ae19_e102db146e88" LABEL="D_32_116_3_0023.jpg" TYPE="Item">
+              <mets:fptr FILEID="_00d00040-001a-4c45-ae19-e102db146e88"/>
+            </mets:div>
+          </mets:div>
+          <mets:div ID="_00d00040_0000_4b53_8afb_3e35aa7dec49_DataDirectory_jpeg_D_32_116_3_D_32_116_3_0024_jpg" LABEL="D_32_116_3_0024.jpg" TYPE="Directory">
+            <mets:div ID="div_00d00040_001b_43b8_9767_a0f04b9d00c1" LABEL="D_32_116_3_0024.jpg" TYPE="Item">
+              <mets:fptr FILEID="_00d00040-001b-43b8-9767-a0f04b9d00c1"/>
+            </mets:div>
+          </mets:div>
+          <mets:div ID="_00d00040_0000_4b53_8afb_3e35aa7dec49_DataDirectory_jpeg_D_32_116_3_D_32_116_3_0025_jpg" LABEL="D_32_116_3_0025.jpg" TYPE="Directory">
+            <mets:div ID="div_00d00040_001c_41f2_84ad_14fcf3285445" LABEL="D_32_116_3_0025.jpg" TYPE="Item">
+              <mets:fptr FILEID="_00d00040-001c-41f2-84ad-14fcf3285445"/>
+            </mets:div>
+          </mets:div>
+          <mets:div ID="_00d00040_0000_4b53_8afb_3e35aa7dec49_DataDirectory_jpeg_D_32_116_3_D_32_116_3_0026_jpg" LABEL="D_32_116_3_0026.jpg" TYPE="Directory">
+            <mets:div ID="div_00d00040_001d_423d_99ef_6c14d94e7bae" LABEL="D_32_116_3_0026.jpg" TYPE="Item">
+              <mets:fptr FILEID="_00d00040-001d-423d-99ef-6c14d94e7bae"/>
+            </mets:div>
+          </mets:div>
+          <mets:div ID="_00d00040_0000_4b53_8afb_3e35aa7dec49_DataDirectory_jpeg_D_32_116_3_D_32_116_3_0027_jpg" LABEL="D_32_116_3_0027.jpg" TYPE="Directory">
+            <mets:div ID="div_00d00040_001e_423e_8b0b_9dbd3605f5ac" LABEL="D_32_116_3_0027.jpg" TYPE="Item">
+              <mets:fptr FILEID="_00d00040-001e-423e-8b0b-9dbd3605f5ac"/>
+            </mets:div>
+          </mets:div>
+          <mets:div ID="_00d00040_0000_4b53_8afb_3e35aa7dec49_DataDirectory_jpeg_D_32_116_3_D_32_116_3_0028_jpg" LABEL="D_32_116_3_0028.jpg" TYPE="Directory">
+            <mets:div ID="div_00d00040_001f_4d47_9bea_f248beab141d" LABEL="D_32_116_3_0028.jpg" TYPE="Item">
+              <mets:fptr FILEID="_00d00040-001f-4d47-9bea-f248beab141d"/>
+            </mets:div>
+          </mets:div>
+          <mets:div ID="_00d00040_0000_4b53_8afb_3e35aa7dec49_DataDirectory_jpeg_D_32_116_3_D_32_116_3_0029_jpg" LABEL="D_32_116_3_0029.jpg" TYPE="Directory">
+            <mets:div ID="div_00d00040_0020_47ca_9a79_e00f635a6803" LABEL="D_32_116_3_0029.jpg" TYPE="Item">
+              <mets:fptr FILEID="_00d00040-0020-47ca-9a79-e00f635a6803"/>
+            </mets:div>
+          </mets:div>
+          <mets:div ID="_00d00040_0000_4b53_8afb_3e35aa7dec49_DataDirectory_jpeg_D_32_116_3_D_32_116_3_0030_jpg" LABEL="D_32_116_3_0030.jpg" TYPE="Directory">
+            <mets:div ID="div_00d00040_0021_4860_b3e6_3c121a203727" LABEL="D_32_116_3_0030.jpg" TYPE="Item">
+              <mets:fptr FILEID="_00d00040-0021-4860-b3e6-3c121a203727"/>
+            </mets:div>
+          </mets:div>
+          <mets:div ID="_00d00040_0000_4b53_8afb_3e35aa7dec49_DataDirectory_jpeg_D_32_116_3_D_32_116_3_0031_jpg" LABEL="D_32_116_3_0031.jpg" TYPE="Directory">
+            <mets:div ID="div_00d00040_0022_4078_8a39_3ebfec1fc263" LABEL="D_32_116_3_0031.jpg" TYPE="Item">
+              <mets:fptr FILEID="_00d00040-0022-4078-8a39-3ebfec1fc263"/>
+            </mets:div>
+          </mets:div>
+          <mets:div ID="_00d00040_0000_4b53_8afb_3e35aa7dec49_DataDirectory_jpeg_D_32_116_3_D_32_116_3_0032_jpg" LABEL="D_32_116_3_0032.jpg" TYPE="Directory">
+            <mets:div ID="div_00d00040_0023_4642_aa46_7dc6d5976693" LABEL="D_32_116_3_0032.jpg" TYPE="Item">
+              <mets:fptr FILEID="_00d00040-0023-4642-aa46-7dc6d5976693"/>
+            </mets:div>
+          </mets:div>
+          <mets:div ID="_00d00040_0000_4b53_8afb_3e35aa7dec49_DataDirectory_jpeg_D_32_116_3_D_32_116_3_0033_jpg" LABEL="D_32_116_3_0033.jpg" TYPE="Directory">
+            <mets:div ID="div_00d00040_0024_4001_9bcc_5aefaf3e770b" LABEL="D_32_116_3_0033.jpg" TYPE="Item">
+              <mets:fptr FILEID="_00d00040-0024-4001-9bcc-5aefaf3e770b"/>
+            </mets:div>
+          </mets:div>
+          <mets:div ID="_00d00040_0000_4b53_8afb_3e35aa7dec49_DataDirectory_jpeg_D_32_116_3_D_32_116_3_0034_jpg" LABEL="D_32_116_3_0034.jpg" TYPE="Directory">
+            <mets:div ID="div_00d00040_0025_46de_8b0e_a38fe36fb178" LABEL="D_32_116_3_0034.jpg" TYPE="Item">
+              <mets:fptr FILEID="_00d00040-0025-46de-8b0e-a38fe36fb178"/>
+            </mets:div>
+          </mets:div>
+        </mets:div>
+      </mets:div>
+      <mets:div ID="_00d00040_0000_4b53_8afb_3e35aa7dec49_DataDirectory_pdf_ocr" LABEL="pdf_ocr" TYPE="Directory">
+        <mets:div ID="_00d00040_0000_4b53_8afb_3e35aa7dec49_DataDirectory_pdf_ocr_D_32_116_3" LABEL="D_32_116_3" TYPE="Directory">
+          <mets:div ID="_00d00040_0000_4b53_8afb_3e35aa7dec49_DataDirectory_pdf_ocr_D_32_116_3_D_32_116_3_pdf" LABEL="D_32_116_3.pdf" TYPE="Directory">
+            <mets:div ID="div_00d00040_002b_4e2d_924b_1f0c65aeda27" LABEL="D_32_116_3.pdf" TYPE="Item">
+              <mets:fptr FILEID="_00d00040-002b-4e2d-924b-1f0c65aeda27"/>
+            </mets:div>
+          </mets:div>
+        </mets:div>
+      </mets:div>
+    </mets:div>
+  </mets:structMap>
+</mets:mets>

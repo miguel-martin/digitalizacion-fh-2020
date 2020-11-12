@@ -1,0 +1,5 @@
+enum34==1.1.10
+lxml==4.6.1
+marcxml-parser==1.2.3
+pyDHTMLParser==2.2.3
+remove-hairs==1.0.1
