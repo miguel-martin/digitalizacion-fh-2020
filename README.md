@@ -36,7 +36,12 @@ Para salir del VENV:
 deactivate
 ```
 
+## Generación de miniaturas
 
+Uso imagemagick para generarlas. Las dejo en biblos...
+```
+for filename in *.pdf; do convert "$filename[2]" "${filename%.*}.jpg"; done;
+```
 
 ## Licencia
 [MIT](https://choosealicense.com/licenses/mit/)

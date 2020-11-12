@@ -69,18 +69,23 @@ def rewrite_record_for_zaguan(rec):
         etiq2['d'] = "Fichero METS" 
         # check if file exists...
         if (urllib.urlopen(xmlFile).getcode() != 200):
-            raise ValueError('ERROR: El fichero %s no existe' %xmlFile)
+            raise IOError('ERROR: El fichero %s no existe' %xmlFile)
         else:    
             rec.add_data_field("FFT", " ", " ", etiq2)
             #print("Anadida etiqueta FFT del METS... %s" %(etiq2['a'])) 
 
         etiq3 = collections.OrderedDict()
         pdfFile = "http://biblos.unizar.es/zaguan/PDFS/%s.pdf" %(signature)
+        thumbFile = "http://biblos.unizar.es/zaguan/thumbnails_miguel/%s.jpg" %(signature)
         etiq3['a'] = pdfFile
         etiq3['d'] = "Texto completo (PDF)" 
+        etiq3['x'] = thumbFile
+        print(thumbFile)
         # check if file exists...
         if (urllib.urlopen(pdfFile).getcode() != 200):
-            raise ValueError('ERROR: El fichero %s no existe' %pdfFile)
+            raise IOError('ERROR: El fichero %s no existe' %pdfFile)
+        elif (urllib.urlopen(thumbFile).getcode() != 200):
+            raise IOError('ERROR: El fichero %s no existe' %thumbFile)
         else:
             rec.add_data_field("FFT", " ", " ", etiq3)
             #print("Anadida etiqueta FFT del PDF... %s" %(etiq3['a']))
