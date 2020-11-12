@@ -28,6 +28,16 @@ python src/prepare.py
 El script comprueba que los ficheros necesarios, que se cargarán a Zaguan vía FFT, estén accesibles en la ubicación esperada (biblos.unizar.es). Si no están disponibles, producirá un error.
 Producirá un nuevo fichero en la carpeta outputs/ con la fecha de generación.
 
+## Destrucción del VENV
+
+Para salir del VENV:
+
+```
+deactivate
+```
+
+
+
 ## Licencia
 [MIT](https://choosealicense.com/licenses/mit/)
 

@@ -2,5 +2,7 @@
 .DS_Store
 .Python
 .vscode/
+*.pyc
+tmp/
 
 
