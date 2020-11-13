@@ -113,6 +113,10 @@ def rewrite_record_for_zaguan(rec):
     if '001' in rec.controlfields:
         del(rec.controlfields['001'])
 
+    # Remove controlfield 005
+    if '005' in rec.controlfields:
+        del(rec.controlfields['005'])
+
     # Check 980...
     if '980' in rec.datafields:
         collection = rec.datafields["980"][0]['b']
