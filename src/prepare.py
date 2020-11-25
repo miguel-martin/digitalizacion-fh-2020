@@ -97,19 +97,19 @@ def rewrite_record_for_zaguan(rec):
         ccpb = rec.get_ctl_field('001')
         #print("CCPB: " + ccpb)
     except Exception as e:
-        print("No se encuentra ccpb")
+        print("No se encuentra ccpb. Añadiendo signatura como campo de control...")
         #raise
 
-    if ccpb:
-        etiq4 = collections.OrderedDict()
+    etiq4 = collections.OrderedDict()
+    if ccpb:  
         etiq4['a'] = ccpb
-        rec.add_data_field("970", " ", " ", etiq4)
-        #print("Anadida etiqueta 970... %s" %(etiq4['a']))
+        
     else:
         # add signature instead of CCPB (to allow bibupload -ir without duplicates!!)
-        collections.OrderedDict()
         etiq4['a'] = signature
-        rec.add_data_field("970", " ", " ", etiq4)
+
+    rec.add_data_field("970", " ", " ", etiq4)
+    #print("Anadida etiqueta 970... %s" %(etiq4['a']))
 
     # Remove leader
     rec.leader = None

@@ -5,8 +5,15 @@ Proyecto Digitalizacion FH 2020 recoge:
 - (/inputs) los ficheros de entrada (METS) 
 - (/outputs) las salidas (MARCXML) para cargar a Zaguan.
 
-## Instalación
+## Pre-requisitos
+Instalar virtualenv:
 
+```
+pip install virtualenv
+sudo /usr/bin/easy_install virtualenv
+```
+
+## Instalación
 Crear el virtualenv para python 2.7 y activarlo:
 
 ```
