@@ -149,7 +149,7 @@ def rewrite_record_for_zaguan(rec):
     # get output...    
     output += rec.to_XML()
 
-    return output
+    return [etiq4['a'][0], output]
 
 def list_input_files(rootDir):
     # Return an array containing all the input files
@@ -170,6 +170,8 @@ def main():
     print('Listando los archivos...')
     input_files = list_input_files('./inputs/')
 
+    etiquetas970={}
+
     # 2. For each file...
     for f in input_files:
         # 2.1 Get METS's MARC record
@@ -183,7 +185,12 @@ def main():
 
         # 2.3 Generate XML
         print('Generando el record para cargar en Zaguan...')
-        output = rewrite_record_for_zaguan(rec)
+        [etiq970, output]  = rewrite_record_for_zaguan(rec)
+        print(etiq970)
+        if etiq970 in etiquetas970.keys():
+            print("***************************************** ¡ERROR! Clave duplicada: {}".format(etiq970))
+        else:
+            etiquetas970[etiq970]=True
         #print(output)
 
         # 2.4 Write XML to output
