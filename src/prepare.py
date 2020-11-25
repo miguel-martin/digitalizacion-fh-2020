@@ -105,6 +105,11 @@ def rewrite_record_for_zaguan(rec):
         etiq4['a'] = ccpb
         rec.add_data_field("970", " ", " ", etiq4)
         #print("Anadida etiqueta 970... %s" %(etiq4['a']))
+    else:
+        # add signature instead of CCPB (to allow bibupload -ir without duplicates!!)
+        collections.OrderedDict()
+        etiq4['a'] = signature
+        rec.add_data_field("970", " ", " ", etiq4)
 
     # Remove leader
     rec.leader = None
@@ -127,6 +132,19 @@ def rewrite_record_for_zaguan(rec):
         rec.add_data_field("980", " ", " ", etiq980)
     else:
         raise ValueError('ERROR: No hay informacion de coleccion!')
+
+    # Add 506...
+    etiq506 = collections.OrderedDict()
+    etiq506['a'] = 'Access copy available to the general public'
+    etiq506['f'] = 'Unrestricted'
+    rec.add_data_field("506", " ", " ", etiq506)
+
+    # Add 540...
+    etiq540 = collections.OrderedDict()
+    etiq540['9'] = 'info:eu-repo/semantics/openAccess'
+    etiq540['a'] = 'by-nc-nd'
+    etiq540['u'] = 'http://creativecommons.org/licenses/by-nc-nd/3.0/es/'
+    rec.add_data_field("540", " ", " ", etiq540)
 
     # get output...    
     output += rec.to_XML()
