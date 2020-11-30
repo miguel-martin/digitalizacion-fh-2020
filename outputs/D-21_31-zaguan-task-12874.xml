@@ -1,0 +1,144 @@
+<record xmlns="http://www.loc.gov/MARC21/slim/"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.loc.gov/MARC21/slim
+http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+<controlfield tag="008">200109s1642    sp      r     ||| | lat d</controlfield>
+<datafield tag="FFT" ind1=" " ind2=" ">
+<subfield code="a">http://biblos.unizar.es/zaguan/METS_MIGUEL/D_21_31/METS_carga_D_21_31.xml</subfield>
+<subfield code="d">Fichero METS</subfield>
+</datafield>
+<datafield tag="FFT" ind1=" " ind2=" ">
+<subfield code="a">http://biblos.unizar.es/zaguan/PDFS/D_21_31.pdf</subfield>
+<subfield code="d">Texto completo (PDF)</subfield>
+<subfield code="x">http://biblos.unizar.es/zaguan/thumbnails_miguel/D_21_31.jpg</subfield>
+</datafield>
+<datafield tag="037" ind1=" " ind2=" ">
+<subfield code="a">D_21_31</subfield>
+</datafield>
+<datafield tag="040" ind1=" " ind2=" ">
+<subfield code="a">AR</subfield>
+<subfield code="b">spa</subfield>
+<subfield code="c">PAB</subfield>
+<subfield code="d">ES-ZaU</subfield>
+</datafield>
+<datafield tag="100" ind1="1" ind2=" ">
+<subfield code="a">Toledo, Francisco de,</subfield>
+<subfield code="d">1532-1596.</subfield>
+</datafield>
+<datafield tag="245" ind1="1" ind2="0">
+<subfield code="a">Francisci Toleti e Societate Iesv ... Cardinalis De Instructione sacerdotum et peccatis mortalibus libri VIII /</subfield>
+<subfield code="c">accesserunt perpetuae Annotationes &amp; Additionis Andreae Victorelli. Itemqi Tractatus Martini Fornarii e Societate Iesu ... ; &amp; auctarij loco disceptatio eiusdem Victorelli.</subfield>
+</datafield>
+<datafield tag="250" ind1=" " ind2=" ">
+<subfield code="a">Editio Supra trigesimam.</subfield>
+</datafield>
+<datafield tag="260" ind1=" " ind2=" ">
+<subfield code="b">sumptibus Petrii Alfay,</subfield>
+<subfield code="c">1642.</subfield>
+<subfield code="e">Caesaraugustae :</subfield>
+<subfield code="f">ex typographia generalis &amp; Regii Nosocomij Deiparae de Gratia :</subfield>
+</datafield>
+<datafield tag="300" ind1=" " ind2=" ">
+<subfield code="a">[12], 546 [42] p. ;</subfield>
+<subfield code="c">Fol.</subfield>
+</datafield>
+<datafield tag="506" ind1=" " ind2=" ">
+<subfield code="a">Access copy available to the general public</subfield>
+<subfield code="f">Unrestricted</subfield>
+</datafield>
+<datafield tag="540" ind1=" " ind2=" ">
+<subfield code="a">by-nc-nd</subfield>
+<subfield code="u">http://creativecommons.org/licenses/by-nc-nd/3.0/es/</subfield>
+<subfield code="9">info:eu-repo/semantics/openAccess</subfield>
+</datafield>
+<datafield tag="596" ind1=" " ind2=" ">
+<subfield code="a">Marca tip. xil. en port.</subfield>
+</datafield>
+<datafield tag="597" ind1=" " ind2=" ">
+<subfield code="a">Sign.: [ ]\p2\s, 2[calderón]\p4\s, A-Z\p8\s, 2A-2P\p8\s, O\p6\s.</subfield>
+</datafield>
+<datafield tag="597" ind1=" " ind2=" ">
+<subfield code="a">Texto a dos col.</subfield>
+</datafield>
+<datafield tag="597" ind1=" " ind2=" ">
+<subfield code="a">Port. a dos tintas.</subfield>
+</datafield>
+<datafield tag="650" ind1="0" ind2="4">
+<subfield code="a">Sacerdocio</subfield>
+<subfield code="v">Obras anteriores a 1800.</subfield>
+</datafield>
+<datafield tag="700" ind1="1" ind2=" ">
+<subfield code="a">Victorelli, Andrea,</subfield>
+<subfield code="e">com.</subfield>
+</datafield>
+<datafield tag="700" ind1="1" ind2=" ">
+<subfield code="a">Fornari, Martino.</subfield>
+<subfield code="t">Tractatus de Sacro Ordine.</subfield>
+</datafield>
+<datafield tag="700" ind1="1" ind2=" ">
+<subfield code="a">Alfay, Pedro,</subfield>
+<subfield code="e">ed.</subfield>
+</datafield>
+<datafield tag="710" ind1="2" ind2=" ">
+<subfield code="a">Hospital Real y General de Nuestra Señora de Gracia (Zaragoza),</subfield>
+<subfield code="e">imp.</subfield>
+</datafield>
+<datafield tag="710" ind1="2" ind2=" ">
+<subfield code="a">Convento de San Agustín (Zaragoza),</subfield>
+<subfield code="e">ant. pos.</subfield>
+</datafield>
+<datafield tag="740" ind1="0" ind2=" ">
+<subfield code="a">De instructione sacerdotum et peccatis mortalibus.</subfield>
+</datafield>
+<datafield tag="752" ind1=" " ind2=" ">
+<subfield code="a">España</subfield>
+<subfield code="b">Aragón</subfield>
+<subfield code="d">Zaragoza.</subfield>
+</datafield>
+<datafield tag="907" ind1=" " ind2=" ">
+<subfield code="a">.b18641507</subfield>
+<subfield code="b">04-09-20</subfield>
+<subfield code="c">06-09-17</subfield>
+</datafield>
+<datafield tag="927" ind1="1" ind2=" ">
+<subfield code="a">100</subfield>
+<subfield code="b">jm</subfield>
+<subfield code="d">200109</subfield>
+</datafield>
+<datafield tag="945" ind1=" " ind2=" ">
+<subfield code="a">D-21-31</subfield>
+<subfield code="g">1</subfield>
+<subfield code="l">100an</subfield>
+<subfield code="o">d</subfield>
+<subfield code="p">&amp;#x20ac;0.00</subfield>
+<subfield code="q">-</subfield>
+<subfield code="r">f</subfield>
+<subfield code="s">-</subfield>
+<subfield code="t">20</subfield>
+<subfield code="u">0</subfield>
+<subfield code="v">0</subfield>
+<subfield code="w">0</subfield>
+<subfield code="x">0</subfield>
+<subfield code="y">.i22625331</subfield>
+<subfield code="z">09-01-20</subfield>
+</datafield>
+<datafield tag="970" ind1=" " ind2=" ">
+<subfield code="a">CCPB000052834-X</subfield>
+</datafield>
+<datafield tag="980" ind1=" " ind2=" ">
+<subfield code="a">FH</subfield>
+<subfield code="b">fondos</subfield>
+</datafield>
+<datafield tag="998" ind1=" " ind2=" ">
+<subfield code="a">100</subfield>
+<subfield code="b">09-01-20</subfield>
+<subfield code="c">m</subfield>
+<subfield code="d">a</subfield>
+<subfield code="e">a</subfield>
+<subfield code="f">lat</subfield>
+<subfield code="g">sp</subfield>
+<subfield code="h">0</subfield>
+<subfield code="i">0</subfield>
+</datafield>
+</record>
